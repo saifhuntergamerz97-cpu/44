@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic Veo - AI Video Studio",
+  "description": "A high-end AI video generation tool powered by Google's Veo models. Create cinematic sequences from text prompts and reference images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
